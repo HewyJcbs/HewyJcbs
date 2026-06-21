@@ -12,7 +12,6 @@ Studiuję **Elektronikę i Telekomunikację** na **Politechnice Poznańskiej**.
 
 ### Elektronika i Systemy Inżynierskie
 * **Symulacja i Projektowanie:** LTspice, NI Multisim, LabVIEW.
-* **Przetwarzanie Sygnałów:** Analiza fourierowska, autokorelacja, filtracja cyfrowa
 
 ---
 
